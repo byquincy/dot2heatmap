@@ -1,0 +1,26 @@
+{
+    "floorB": {
+        "include": ["toilet", "EV", "vendingMachine"],
+        "exclude": ["gym", "upperfloor", "nobasement"]
+    },
+
+    "floor1": {
+        "include": ["water", "toilet", "EV", "refrigerator", "door", "vendingMachine"],
+        "exclude": ["basement", "upperfloor"]
+    },
+
+    "floor2": {
+        "include": ["water", "toilet", "EV", "dressingroom", "studyroom"],
+        "exclude": ["basement", "1f", "gym"]
+    },
+
+    "floor3": {
+        "include": ["water", "toilet", "EV", "dressingroom", "studyroom"],
+        "exclude": ["basement", "1f", "gym"]
+    },
+
+    "floor4": {
+        "include": ["water", "toilet", "EV", "dressingroom", "studyroom"],
+        "exclude": ["basement", "1f", "gym"]
+    }
+}

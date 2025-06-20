@@ -1,0 +1,36 @@
+location, value, coordinateX, coordinateY, filterKeywords[optional]
+toiletDormL,620,392,743, ["toilet"]
+toiletDormM,620,541,619, ["toilet"]
+toiletGymMem,620,947,1589, "[""toilet"", ""gym""]"
+toiletGymWomen,620,947,1733, "[""toilet"", ""gym""]"
+toiletCMen,620,684,1152, ["toilet"]
+toiletCWomen,620,667,1152, ["toilet"]
+toiletNMen,620,1108,1030, ["toilet"]
+toiletNWomen,620,1090,1030, ["toilet"]
+toiletSMen,620,1243,792, "[""toilet"", ""nobasement""]"
+toiletSWomen,620,1243,775, "[""toilet"", ""nobasement""]"
+toiletAMen,620,1259,1164, "[""toilet"", ""nobasement""]"
+toiletAWomen,620,1259,1140, "[""toilet"", ""nobasement""]"
+vendingMachineGym,140,947,1661,"[""vendingMachine"", ""gym""]"
+vendingMachineC,140,495,1663,"[""vendingMachine"", ""basement""]"
+vendingMachineA,140,1332,1183,"[""vendingMachine"", ""1f"", ""nobasement""]"
+elevatorN,0,932,1073,["EV"]
+elevatorDormL,0,425,552,["EV"]
+elevatorDormM,0,335,649,["EV"]
+refrigerator,0,1376,892,["refrigerator"]
+studyroom,0,356,1215,["studyroom"]
+dressingroomM,17200,949,1317,["dressingroom"]
+dressingroomW,17200,949,759,["dressingroom"]
+waterC1f,650,811,1302,"[""water"", ""1f""]"
+waterGym,650,947,1700,"[""water"", ""1f""]"
+waterS1f,650,1277,806,"[""water"", ""1f""]"
+waterA1f1,650,1298,1162,"[""water"", ""1f""]"
+waterA1f2,650,1462,1190,"[""water"", ""1f""]"
+waterDormL,650,441,556,["water"]
+waterDormM,650,370,616,["water"]
+waterC1,650,449,1161,["water"]
+waterC2,650,560,1271,["water"]
+waterS,650,1440,835,["water"]
+waterA,650,1375,1224,["water"]
+waterN1,650,1052,926,"[""water"", ""upperfloor""]"
+waterN2,650,1052,1151,"[""water"", ""upperfloor""]"
